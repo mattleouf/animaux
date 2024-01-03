@@ -32,12 +32,13 @@ body {
     color: #ffffff; /* Change if you want a different color for animal names */
     font-size: 24px; /* Adjust font size as needed */
     margin-bottom: 10px;
+    margin-top: 0px;
 }
 
 .animal-container h3 {
     color: #4CAF50;
     font-size: 18px;
-    margin: 10px 0 5px 0; /* Example margin: top and bottom */
+    margin: 0px 0 5px 0; /* Example margin: top and bottom */
 }
 
 .animal-container p, .animal-container ul {
