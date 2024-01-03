@@ -5,10 +5,10 @@
     <title>Livre d'images des Animaux</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
 </head>
 <body>
 
@@ -20,17 +20,27 @@
 // Fetch the JSON data
 fetch('animals.json')
   .then(response => response.json())
-  .then(animals => {
-    // Call a function to render the HTML with this data
-    document.getElementById('animal-cards').innerHTML = renderAnimals(animals);
+  .then(data => {
+    // Initialize an empty string to hold all HTML
+    let allAnimalsHTML = '';
+
+    // Loop through each continent in the data
+    for (const continent in data) {
+      // Add each animal in this continent to the HTML string
+      allAnimalsHTML += renderAnimals(data[continent], continent);
+    }
+
+    // Set the inner HTML of the animal cards container
+    document.getElementById('animal-cards').innerHTML = allAnimalsHTML;
   })
   .catch(error => console.error('Error loading animal data:', error));
 
 // Function to generate the HTML for the animal cards
-function renderAnimals(animals) {
+function renderAnimals(animals, continent) {
   return animals.map(animal => `
     <div class="animal-container">
       <h2 class="animal-name">${animal.name}</h2>
+      <h3 class="animal-continent">${continent}</h3>
       <!-- ... Other sections ... -->
       <div class="animal-prompt">
         <h3>Prompt Midjourney</h3>
@@ -41,12 +51,16 @@ function renderAnimals(animals) {
   `).join('');
 }
 
-// Copy prompt function as before
 function copyPrompt(animalName) {
-  // ... Function to copy the prompt ...
+  const elementId = `prompt-${animalName.replace(/\s/g, '')}`;
+  const copyText = document.getElementById(elementId);
+  copyText.select();
+  document.execCommand("copy");
 }
 
+
 </script>
+
 
 </body>
 </html>
