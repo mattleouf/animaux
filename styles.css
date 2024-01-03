@@ -1,0 +1,71 @@
+body {
+    font-family: 'Roboto', 'Calibri', sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    line-height: 1;
+}
+
+.continent-container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.animal-container {
+    background-color: #1e1e1e;
+    border: 1px solid #333333;
+    padding: 15px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    width: 75%;
+}
+
+.animal-name {
+    color: #ffffff; /* Change if you want a different color for animal names */
+    font-size: 24px; /* Adjust font size as needed */
+    margin-bottom: 10px;
+}
+
+.animal-container h3 {
+    color: #4CAF50;
+    font-size: 18px;
+    margin: 10px 0 5px 0; /* Example margin: top and bottom */
+}
+
+.animal-container p, .animal-container ul {
+    margin-top: 0; /* Removes space above */
+    margin-bottom: 10px; /* Consistent space below */
+}
+
+.animal-taxonomy, .animal-habitat, .animal-diet p, .animal-description p, .animal-trivia ul, .prompt-textarea {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.animal-trivia ul {
+    list-style: inside disc; /* Adds bullet points for trivia */
+    padding-left: 20px;
+}
+
+.prompt-textarea {
+    width: 100%;
+    height: 2em; /* Height set for exactly three lines */
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #4CAF50;
+    padding-bottom: 10px; /* Added padding below the text */
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0px;
+}
+
+button:hover {
+    background-color: #45a049;
+}

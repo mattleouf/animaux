@@ -1,0 +1,18 @@
+{
+  "Europe": [
+    {
+      "name": "Renard Rouge",
+      "taxonomy": "Mammifère, famille des canidés comme les loups",
+      "habitat": "Forêts, zones urbaines en Europe",
+      "diet": "Omnivore, préfère les petits mammifères et les baies",
+      "description": "Le renard rouge, avec son pelage distinctif et ses oreilles pointues, est un mammifère très adaptable et largement répandu en Europe. Il est connu pour son intelligence et sa capacité à s'adapter à divers environnements, y compris les zones urbaines.",
+      "trivia": [
+        "Le renard rouge peut entendre une montre à une distance de 40 mètres.",
+        "Il utilise sa queue touffue comme couverture pour se garder au chaud pendant l'hiver.",
+        "Les jeunes renards rouges sont particulièrement joueurs et curieux."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Red Fox in a dense, verdant European woodland, dappled with the golden hues of twilight, by Ted Nasmith --ar 3:2 --s 75"
+    }
+    // Additional animals would be added here as separate objects
+  ]
+}

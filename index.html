@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Livre d'images des Animaux</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="continent-container" id="animal-cards">
+    <!-- Animal cards will be inserted here -->
+</div>
+
+<script>
+// Fetch the JSON data
+fetch('animals.json')
+  .then(response => response.json())
+  .then(animals => {
+    // Call a function to render the HTML with this data
+    document.getElementById('animal-cards').innerHTML = renderAnimals(animals);
+  })
+  .catch(error => console.error('Error loading animal data:', error));
+
+// Function to generate the HTML for the animal cards
+function renderAnimals(animals) {
+  return animals.map(animal => `
+    <div class="animal-container">
+      <h2 class="animal-name">${animal.name}</h2>
+      <!-- ... Other sections ... -->
+      <div class="animal-prompt">
+        <h3>Prompt Midjourney</h3>
+        <textarea class="prompt-textarea" rows="3">${animal.prompt}</textarea>
+        <button onclick="copyPrompt('${animal.name}')">Copier le Prompt</button>
+      </div>
+    </div>
+  `).join('');
+}
+
+// Copy prompt function as before
+function copyPrompt(animalName) {
+  // ... Function to copy the prompt ...
+}
+
+</script>
+
+</body>
+</html>
