@@ -68,19 +68,23 @@ function renderAnimals(animals) {
       </div>
       <div class="animal-prompt">
         <h3>Prompt Midjourney</h3>
-        <textarea class="prompt-textarea" rows="3">${animal.prompt}</textarea>
-        <button onclick="copyPrompt('${animal.name}')">Copier le Prompt</button>
+        <textarea id="prompt-${animal.name.replace(/\s/g, '')}" class="prompt-textarea" rows="3">${animal.prompt}</textarea>
+        <button onclick="copyPrompt('${animal.name.replace(/\s/g, '')}')">Copier le Prompt</button>
       </div>
     </div>
   `).join('');
 }
 
-function copyPrompt(animalName) {
-  const elementId = `prompt-${animalName.replace(/\s/g, '')}`;
-  const copyText = document.getElementById(elementId);
-  copyText.select();
-  document.execCommand("copy");
+function copyPrompt(animalNameId) {
+  const copyText = document.getElementById(`prompt-${animalNameId}`);
+  if (copyText) {
+    copyText.select();
+    document.execCommand("copy");
+  } else {
+    console.error('Element not found:', `prompt-${animalNameId}`);
+  }
 }
+
 
 
 </script>

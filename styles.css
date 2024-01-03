@@ -11,6 +11,14 @@ body {
     padding: 20px;
 }
 
+.continent-title {
+    text-transform: uppercase; /* Transform text to uppercase */
+    font-size: 24px; /* You can adjust the font size as needed */
+    margin-top: 20px; /* Add some space above each continent title */
+    margin-bottom: 10px; /* Space below the title before the list of animals */
+    color: #4CAF50; /* Choose a color that suits your design */
+}
+
 .animal-container {
     background-color: #1e1e1e;
     border: 1px solid #333333;
