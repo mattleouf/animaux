@@ -22,25 +22,30 @@ fetch('animals.json')
   .then(response => response.json())
   .then(data => {
     // Initialize an empty string to hold all HTML
-    let allAnimalsHTML = '';
+    let allContinentsHTML = '';
 
     // Loop through each continent in the data
     for (const continent in data) {
-      // Add each animal in this continent to the HTML string
-      allAnimalsHTML += renderAnimals(data[continent], continent);
+      // Start a section for each continent
+      let continentSection = `<h2 class="continent-title">${continent}</h2>`;
+
+      // Add each animal in this continent to the section
+      continentSection += renderAnimals(data[continent]);
+
+      // Add the complete continent section to the overall HTML
+      allContinentsHTML += `<div class="continent-section">${continentSection}</div>`;
     }
 
     // Set the inner HTML of the animal cards container
-    document.getElementById('animal-cards').innerHTML = allAnimalsHTML;
+    document.getElementById('animal-cards').innerHTML = allContinentsHTML;
   })
   .catch(error => console.error('Error loading animal data:', error));
 
-// Function to generate the HTML for the animal cards
-function renderAnimals(animals, continent) {
+// Function to generate the HTML for the animal cards within a continent
+function renderAnimals(animals) {
   return animals.map(animal => `
     <div class="animal-container">
       <h2 class="animal-name">${animal.name}</h2>
-      <h3 class="animal-continent">Continent: ${continent}</h3>
       <div class="animal-taxonomy">
         <h3>Taxonomie</h3>
         <p>${animal.taxonomy}</p>
@@ -68,9 +73,6 @@ function renderAnimals(animals, continent) {
       </div>
     </div>
   `).join('');
-console.log("Rendering animals for continent:", continent);
-console.log("Animals data:", animals);
-
 }
 
 function copyPrompt(animalName) {
