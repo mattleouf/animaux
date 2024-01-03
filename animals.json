@@ -12,9 +12,87 @@
         "Les jeunes renards rouges sont particulièrement joueurs et curieux."
       ],
       "prompt": "/imagine prompt: Intimate close-up illustration of a Renard Rouge in the lush green forests of Europe during the early hours of dawn, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Hérisson d'Europe",
+      "taxonomy": "Mammifère, famille des Erinaceidae",
+      "habitat": "Forêts, haies, jardins",
+      "diet": "Omnivore, préfère les insectes, vers et petites chenilles",
+      "description": "Petit mammifère nocturne, le hérisson d'Europe est couvert de piquants qu'il utilise comme défense contre les prédateurs.",
+      "trivia": [
+        "Le hérisson peut se rouler en boule pour protéger ses parties vulnérables.",
+        "Il est bénéfique pour les jardins car il mange de nombreux nuisibles.",
+        "Les hérissons hibernent en hiver, réduisant leur température corporelle pour économiser l'énergie."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a European Hedgehog amidst fallen autumn leaves, snuffling through a hedge row in the twilight, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Lynx Ibérique",
+      "taxonomy": "Mammifère, famille des félidés",
+      "habitat": "Forêts méditerranéennes, maquis",
+      "diet": "Carnivore, se nourrit principalement de lapins",
+      "description": "Le lynx ibérique, avec ses oreilles caractéristiques et sa fourrure tachetée, est un félin élégant et discret, maître dans l'art de la furtivité.",
+      "trivia": [
+        "C'est l'un des félins les plus menacés au monde.",
+        "Le lynx utilise ses moustaches pour détecter les mouvements de ses proies.",
+        "Il possède une vue et une ouïe exceptionnelles, essentielles pour la chasse."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Iberian Lynx perched silently on a rocky outcrop in the dense Mediterranean forest, at dusk, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Chevreuil",
+      "taxonomy": "Mammifère, famille des cervidés",
+      "habitat": "Forêts, clairières et champs",
+      "diet": "Herbivore, se nourrit de feuilles, bourgeons, et baies",
+      "description": "Le chevreuil est un petit cervidé agile et rapide, reconnaissable à sa queue courte et son pelage brun rougeâtre en été.",
+      "trivia": [
+        "Les chevreuils peuvent bondir jusqu'à 2 mètres de hauteur et 6 mètres de longueur.",
+        "Ils sont principalement actifs à l'aube et au crépuscule, évitant les heures les plus chaudes.",
+        "En hiver, leur pelage devient gris pour une meilleure isolation et camouflage."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Roe Deer in a vibrant European meadow, with wildflowers surrounding it as the first light of dawn breaks, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Cigogne Blanche",
+      "taxonomy": "Oiseau, famille des Ciconiidés",
+      "habitat": "Zones humides, champs ouverts, prairies",
+      "diet": "Omnivore, préfère les insectes, petits poissons et rongeurs",
+      "description": "La cigogne blanche est célèbre pour son long cou et ses longues pattes, souvent associée aux légendes et contes populaires européens.",
+      "trivia": [
+        "Les cigognes blanches sont connues pour leur migration annuelle impressionnante.",
+        "Elles claquettent avec leur bec pour communiquer au sein du couple et avec leurs petits.",
+        "Les nids de cigognes peuvent être réutilisés chaque année et devenir très grands."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a White Stork standing elegantly in a lush wetland, reeds swaying gently in the breeze of early morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Macareux Moine",
+      "taxonomy": "Oiseau, famille des Alcidés",
+      "habitat": "Falaises côtières et îles rocheuses",
+      "diet": "Carnivore, se nourrit principalement de poissons",
+      "description": "Le macareux moine est un oiseau maritime pittoresque, avec un bec coloré et distinctif, souvent appelé le 'perroquet de mer'.",
+      "trivia": [
+        "Les macareux passent la majorité de leur vie en mer, ne revenant à terre que pour se reproduire.",
+        "Ils peuvent plonger jusqu'à 60 mètres de profondeur en quête de poissons.",
+        "Leurs ailes, adaptées à la nage sous-marine, les rendent moins agiles dans les airs."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Puffin on the rugged coastal cliffs of Europe, waves crashing below as it prepares for flight at dusk, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Grenouille Verte",
+      "taxonomy": "Amphibien, famille des Ranidés",
+      "habitat": "Mares, étangs, ruisseaux",
+      "diet": "Carnivore, insectes, araignées et petits invertébrés",
+      "description": "La grenouille verte est facilement reconnaissable par sa couleur vibrante et son chant distinctif, souvent un indicateur de la santé des écosystèmes aquatiques.",
+      "trivia": [
+        "Les grenouilles vertes peuvent changer de couleur pour mieux se camoufler dans leur environnement.",
+        "Elles utilisent leurs pattes arrière puissantes pour des sauts rapides et échapper aux prédateurs.",
+        "Leur chant peut être entendu surtout pendant la saison de reproduction."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Common Frog on a lily pad in a serene European pond, with dragonflies fluttering by in the soft light of the afternoon, by Ted Nasmith --ar 3:2 --s 75"
     }
   ],
-  "Asia": [
+  "Asie": [
     {
       "name": "Tigre du Bengale",
       "taxonomy": "Mammifère, famille des félins",
@@ -29,7 +107,7 @@
       "prompt": "/imagine prompt: Intimate close-up illustration of a Tigre du Bengale in the dense Sundarbans mangroves at the golden light of dusk, by Ted Nasmith --ar 3:2 --s 75"
     }
   ],
-  "Africa": [
+  "Afrique": [
     {
       "name": "Lion",
       "taxonomy": "Mammifère, famille des félidés",
@@ -44,7 +122,7 @@
       "prompt": "/imagine prompt: Intimate close-up illustration of a Lion in the vast savannahs of Africa, basking in the warm golden sunset, by Ted Nasmith --ar 3:2 --s 75"
     }
   ],
-  "North America": [
+  "Amérique du Nord": [
     {
       "name": "Bison d'Amérique",
       "taxonomy": "Mammifère, famille des bovidés",
@@ -59,7 +137,7 @@
       "prompt": "/imagine prompt: Intimate close-up illustration of an American Bison in the open grasslands of North America, with a backdrop of expansive prairie and a clear blue sky, during the warm light of early morning, by Ted Nasmith --ar 3:2 --s 75"
     }
   ],
-    "South America": [
+    "Amérique du Sud": [
     {
       "name": "Jaguar",
       "taxonomy": "Mammifère, famille des félidés",
@@ -74,7 +152,7 @@
       "prompt": "/imagine prompt: Intimate close-up illustration of a Jaguar lounging by a calm river in the Amazon rainforest, surrounded by lush vegetation and the vibrant sounds of wildlife, during the misty dawn, by Ted Nasmith --ar 3:2 --s 75"
     }
   ],
-  "Australia & Oceania": [
+  "Australie & Océanie": [
     {
       "name": "Kangourou",
       "taxonomy": "Mammifère, famille des macropodidés",
