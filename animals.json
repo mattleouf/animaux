@@ -1,17 +1,92 @@
 {
-    "Europe": [
-        {
-            "name": "Renard Rouge",
-            "taxonomy": "Mammifère, famille des canidés comme les loups",
-            "habitat": "Forêts, zones urbaines en Europe",
-            "diet": "Omnivore, préfère les petits mammifères et les baies",
-            "description": "Le renard rouge, avec son pelage distinctif et ses oreilles pointues, est un mammifère très adaptable et largement répandu en Europe. Il est connu pour son intelligence et sa capacité à s'adapter à divers environnements, y compris les zones urbaines.",
-            "trivia": [
-                "Le renard rouge peut entendre une montre à une distance de 40 mètres.",
-                "Il utilise sa queue touffue comme couverture pour se garder au chaud pendant l'hiver.",
-                "Les jeunes renards rouges sont particulièrement joueurs et curieux."
-            ],
-            "prompt": "/imagine prompt: Intimate close-up illustration of a Red Fox in a dense, verdant European woodland, dappled with the golden hues of twilight, by Ted Nasmith --ar 3:2 --s 75"
-        }
-    ]
+  "Europe": [
+    {
+      "name": "Renard Rouge",
+      "taxonomy": "Mammifère, famille des canidés",
+      "habitat": "Forêts, zones urbaines",
+      "diet": "Omnivore, préfère les petits mammifères et les baies",
+      "description": "Le renard rouge est un animal emblématique de l'Europe, connu pour son agilité et son intelligence. Il s'adapte facilement à divers environnements.",
+      "trivia": [
+        "Peut entendre une montre à une distance de 40 mètres.",
+        "Il utilise sa queue touffue comme couverture pour se garder au chaud pendant l'hiver.",
+        "Les jeunes renards rouges sont particulièrement joueurs et curieux."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Renard Rouge in the lush green forests of Europe during the early hours of dawn, by Ted Nasmith --ar 3:2 --s 75"
+    }
+  ],
+  "Asia": [
+    {
+      "name": "Tigre du Bengale",
+      "taxonomy": "Mammifère, famille des félins",
+      "habitat": "Forêts tropicales, mangroves",
+      "diet": "Carnivore, préfère les cerfs et les sangliers",
+      "description": "Le tigre du Bengale, avec ses rayures emblématiques, est le roi incontesté des jungles asiatiques, symbolisant la force et la majesté.",
+      "trivia": [
+        "Les rayures sont uniques à chaque individu.",
+        "Excellents nageurs, ils peuvent traverser des rivières larges.",
+        "Capables de bondir jusqu'à 10 mètres de distance."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Tigre du Bengale in the dense Sundarbans mangroves at the golden light of dusk, by Ted Nasmith --ar 3:2 --s 75"
+    }
+  ],
+  "Africa": [
+    {
+      "name": "Lion",
+      "taxonomy": "Mammifère, famille des félidés",
+      "habitat": "Savanes, broussailles",
+      "diet": "Carnivore, préfère les grands herbivores comme les zèbres",
+      "description": "Le lion est connu comme le 'roi des animaux' avec une crinière imposante. Il joue un rôle crucial dans l'écosystème en tant que prédateur supérieur.",
+      "trivia": [
+        "Les lions sont les seuls félins qui vivent en groupe appelé une 'troupe'.",
+        "La rugissement d'un lion peut être entendu jusqu'à 8 km de distance.",
+        "Les lionnes sont les chasseuses principales, travaillant en équipe pour traquer leurs proies."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Lion in the vast savannahs of Africa, basking in the warm golden sunset, by Ted Nasmith --ar 3:2 --s 75"
+    }
+  ],
+  "North America": [
+    {
+      "name": "Bison d'Amérique",
+      "taxonomy": "Mammifère, famille des bovidés",
+      "habitat": "Prairies, forêts ouvertes",
+      "diet": "Herbivore, se nourrit principalement d'herbes et de plantes",
+      "description": "Le bison d'Amérique, avec sa stature massive et sa tête imposante, joue un rôle écologique crucial dans les prairies, aidant à entretenir l'habitat des autres espèces.",
+      "trivia": [
+        "Le bison est le plus grand mammifère terrestre d'Amérique du Nord.",
+        "Ils peuvent courir à des vitesses pouvant atteindre 56 km/h.",
+        "Leurs troupeaux migrent sur de longues distances pour les pâturages."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an American Bison in the open grasslands of North America, with a backdrop of expansive prairie and a clear blue sky, during the warm light of early morning, by Ted Nasmith --ar 3:2 --s 75"
+    }
+  ],
+    "South America": [
+    {
+      "name": "Jaguar",
+      "taxonomy": "Mammifère, famille des félidés",
+      "habitat": "Forêts tropicales, zones humides",
+      "diet": "Carnivore, préfère les grands mammifères",
+      "description": "Le jaguar est le plus grand félin des Amériques et possède une mâchoire incroyablement puissante, lui permettant de percer les carapaces de tortues.",
+      "trivia": [
+        "Le jaguar est un nageur habile et aime l'eau.",
+        "Ses taches uniques s'appellent des rosettes car elles ressemblent à des roses.",
+        "Le jaguar chasse principalement sur terre mais il pêche aussi occasionnellement."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Jaguar lounging by a calm river in the Amazon rainforest, surrounded by lush vegetation and the vibrant sounds of wildlife, during the misty dawn, by Ted Nasmith --ar 3:2 --s 75"
+    }
+  ],
+  "Australia & Oceania": [
+    {
+      "name": "Kangourou",
+      "taxonomy": "Mammifère, famille des macropodidés",
+      "habitat": "Plaines herbeuses, forêts",
+      "diet": "Herbivore, se nourrit d'herbes et de petites plantes",
+      "description": "Le kangourou est emblématique de l'Australie, connu pour sa capacité à faire des bonds impressionnants et pour sa poche ventrale unique où il porte ses petits.",
+      "trivia": [
+        "Les kangourous ne peuvent pas reculer, ce qui symbolise l'idée d'aller toujours de l'avant.",
+        "Ils utilisent leur queue musclée comme appui pour se tenir debout.",
+        "Les kangourous peuvent parcourir de grandes distances en sautant pour économiser de l'énergie."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Kangaroo standing in the sprawling grasslands of Australia, with the setting sun casting long shadows, by Ted Nasmith --ar 3:2 --s 75"
+    }
+  ]
 }
