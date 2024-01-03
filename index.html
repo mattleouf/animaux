@@ -40,8 +40,27 @@ function renderAnimals(animals, continent) {
   return animals.map(animal => `
     <div class="animal-container">
       <h2 class="animal-name">${animal.name}</h2>
-      <h3 class="animal-continent">${continent}</h3>
-      <!-- ... Other sections ... -->
+      <h3 class="animal-continent">Continent: ${continent}</h3>
+      <div class="animal-taxonomy">
+        <h3>Taxonomie</h3>
+        <p>${animal.taxonomy}</p>
+      </div>
+      <div class="animal-habitat">
+        <h3>Habitat</h3>
+        <p>${animal.habitat}</p>
+      </div>
+      <div class="animal-diet">
+        <h3>Régime et Nourriture Favorite</h3>
+        <p>${animal.diet}</p>
+      </div>
+      <div class="animal-description">
+        <h3>Description</h3>
+        <p>${animal.description}</p>
+      </div>
+      <div class="animal-trivia">
+        <h3>Savais-tu que...?</h3>
+        <ul>${animal.trivia.map(trivium => `<li>${trivium}</li>`).join('')}</ul>
+      </div>
       <div class="animal-prompt">
         <h3>Prompt Midjourney</h3>
         <textarea class="prompt-textarea" rows="3">${animal.prompt}</textarea>
@@ -49,6 +68,9 @@ function renderAnimals(animals, continent) {
       </div>
     </div>
   `).join('');
+console.log("Rendering animals for continent:", continent);
+console.log("Animals data:", animals);
+
 }
 
 function copyPrompt(animalName) {
