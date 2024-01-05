@@ -536,6 +536,253 @@
         "Les lionnes sont les chasseuses principales, travaillant en équipe pour traquer leurs proies."
       ],
       "prompt": "/imagine prompt: Intimate close-up illustration of a Lion in the vast savannahs of Africa, basking in the warm golden sunset, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Éléphant d'Afrique",
+      "taxonomy": "Mammifère, famille des éléphantidés",
+      "habitat": "Savanes, forêts, marécages",
+      "diet": "Herbivore, consomme des feuilles, branches, fruits",
+      "description": "L'éléphant d'Afrique est le plus grand mammifère terrestre et est connu pour ses grandes oreilles et ses longues défenses. Il a une importance culturelle et écologique considérable.",
+      "trivia": [
+        "Utilise ses oreilles pour réguler sa température corporelle.",
+        "Possède une excellente mémoire et des liens sociaux étroits.",
+        "Les éléphants communiquent à travers des vibrations et des sons à basse fréquence."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an African Elephant wandering in the diverse landscapes of Africa, with a backdrop of acacia trees and a wide river, during a sunny day, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Girafe",
+      "taxonomy": "Mammifère, famille des Giraffidés",
+      "habitat": "Savanes, régions boisées ouvertes",
+      "diet": "Herbivore, feuilles, en particulier celles de l'acacia",
+      "description": "La girafe est le plus haut animal terrestre, remarquable pour son long cou et ses motifs de taches uniques. Elle est douée d'une vision excellente et d'une démarche gracieuse.",
+      "trivia": [
+        "Le long cou de la girafe lui permet d'atteindre des feuilles en hauteur.",
+        "Peut courir à des vitesses élevées sur de courtes distances.",
+        "Les girafons peuvent se tenir debout et marcher peu de temps après la naissance."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Giraffe in the open savannahs of Africa, with a group of giraffes browsing on trees, under a vast blue sky, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Hippopotame",
+      "taxonomy": "Mammifère, famille des Hippopotamidés",
+      "habitat": "Rivières, lacs, marécages",
+      "diet": "Herbivore, se nourrit principalement d'herbes",
+      "description": "L'hippopotame est connu pour sa grande taille et sa vie aquatique. Malgré son apparence lente, c'est un nageur agile et peut être très rapide sur terre.",
+      "trivia": [
+        "Peut retenir sa respiration sous l'eau pendant environ cinq minutes.",
+        "La peau des hippopotames sécrète une substance naturelle qui les protège du soleil.",
+        "Les hippopotames sont sociaux et vivent en groupes appelés 'bancs'."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Hippopotamus submerged in the tranquil waters of an African river, with birds perched on its back, in the warm light of the afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Guépard",
+      "taxonomy": "Mammifère, famille des félidés",
+      "habitat": "Savanes, zones herbeuses",
+      "diet": "Carnivore, antilopes, lièvres",
+      "description": "Le Guépard est reconnu pour être l'animal terrestre le plus rapide, capable d'atteindre des vitesses élevées pour capturer ses proies.",
+      "trivia": [
+        "Peut accélérer de 0 à 100 km/h en quelques secondes.",
+        "Utilise sa queue longue et musclée pour maintenir l'équilibre pendant la course.",
+        "Les guépards ont des taches noires autour de leurs yeux qui réduisent l'éblouissement du soleil."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Cheetah in the open savannas of Africa, poised for a sprint, during the golden light of early morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Gorille",
+      "taxonomy": "Mammifère, famille des hominidés",
+      "habitat": "Forêts tropicales, montagnes",
+      "diet": "Herbivore, feuilles, fruits, tiges",
+      "description": "Le Gorille est le plus grand des primates, connu pour sa force impressionnante et ses liens sociaux complexes au sein de son groupe.",
+      "trivia": [
+        "Utilise une variété de sons, gestes et expressions faciales pour communiquer.",
+        "Les gorilles construisent des nids pour dormir, souvent dans les arbres.",
+        "Les groupes de gorilles sont dirigés par un mâle dominant, appelé 'dos argenté'."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Gorilla in the dense rainforests of Africa, gently holding a young gorilla, under the canopy of tall trees, during a quiet afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Suricate",
+      "taxonomy": "Mammifère, famille des mangoustes",
+      "habitat": "Déserts, savanes",
+      "diet": "Omnivore, insectes, lézards, œufs",
+      "description": "Le Suricate est un petit mammifère sociable, célèbre pour son comportement de surveillance et sa capacité à vivre en colonies.",
+      "trivia": [
+        "Se tient souvent debout sur ses pattes arrière pour surveiller les prédateurs.",
+        "Vivent dans des systèmes de terriers pour se protéger de la chaleur et des prédateurs.",
+        "Les suricates chassent en groupe et s'occupent des petits de la colonie ensemble."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Meerkat standing alert on a mound in the African savanna, with others in the background, during a bright sunny day, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Zèbre",
+      "taxonomy": "Mammifère, famille des équidés",
+      "habitat": "Savanes, prairies",
+      "diet": "Herbivore, herbes, feuilles",
+      "description": "Le Zèbre est connu pour ses rayures noires et blanches uniques. Ces animaux grégaires sont souvent vus en troupeaux dans les plaines africaines.",
+      "trivia": [
+        "Les motifs de rayures sont uniques à chaque individu.",
+        "Les zèbres peuvent parcourir de longues distances pour trouver de l'eau et de la nourriture.",
+        "Les rayures servent de camouflage et peuvent désorienter les prédateurs."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Zebra grazing in the vast open plains of Africa, with acacia trees and a vibrant sunset in the background, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Perroquet Gris d'Afrique",
+      "taxonomy": "Oiseau, famille des Psittacidés",
+      "habitat": "Forêts, savanes boisées",
+      "diet": "Omnivore, se nourrit de fruits, noix, graines",
+      "description": "Le Perroquet Gris d'Afrique est connu pour son intelligence remarquable et sa capacité à imiter les sons, y compris la parole humaine.",
+      "trivia": [
+        "Peut vivre jusqu'à 60 ans en captivité.",
+        "Utilise ses pattes pour manipuler la nourriture tout en mangeant.",
+        "Développe souvent un lien fort avec son propriétaire ou un membre de sa famille."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an African Grey Parrot perched on a tree branch in the dense rainforests of Africa, surrounded by vibrant foliage, during a bright morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Flamant Rose",
+      "taxonomy": "Oiseau, famille des Phoenicopteridés",
+      "habitat": "Lacs, lagunes salines, zones humides",
+      "diet": "Omnivore, algues, crustacés, petits poissons",
+      "description": "Le Flamant Rose est célèbre pour son plumage rose vif, ses longues pattes et son cou élancé. Ils se tiennent souvent sur une patte, une posture emblématique.",
+      "trivia": [
+        "Leur couleur rose provient des caroténoïdes dans leur alimentation.",
+        "Peuvent voler sur de longues distances pour trouver de la nourriture et des sites de nidification.",
+        "Vivent en grands groupes, formant parfois des colonies de plusieurs milliers."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Flamingo standing in the shallow waters of an African wetland, with reflections and other flamingos in the background, during a colorful sunset, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Crocodile du Nil",
+      "taxonomy": "Reptile, famille des Crocodylidés",
+      "habitat": "Rivières, lacs, marécages",
+      "diet": "Carnivore, poissons, mammifères, oiseaux",
+      "description": "Le Crocodile du Nil est l'un des plus grands crocodiles au monde, craint pour sa force et sa capacité de chasseur redoutable dans l'eau.",
+      "trivia": [
+        "Peut rester immergé et immobile pendant de longues périodes.",
+        "Utilise une technique de chasse appelée 'le piège à mort' pour capturer ses proies.",
+        "Les jeunes crocodiles communiquent avec leur mère en émettant des sons avant l'éclosion."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Nile Crocodile lurking just below the surface of a river in Africa, with eyes and nostrils visible, in the dim light of dusk, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Poisson-clown",
+      "taxonomy": "Poisson, famille des Pomacentridés",
+      "habitat": "Récifs coralliens",
+      "diet": "Omnivore, algues, zooplancton, petits invertébrés",
+      "description": "Le Poisson-clown est célèbre pour sa couleur vive et son association symbiotique avec les anémones de mer.",
+      "trivia": [
+        "Vit en symbiose avec les anémones, qui les protègent des prédateurs.",
+        "Capable de changer de sexe, la plupart naissent mâles et peuvent devenir femelles.",
+        "Les poissons-clowns communiquent en émettant des sons de claquement."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Clownfish swimming among colorful coral reefs and sea anemones in the clear waters of the Red Sea, during a bright sunny day, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Okapi",
+      "taxonomy": "Mammifère, famille des Giraffidés",
+      "habitat": "Forêts denses de la République démocratique du Congo",
+      "diet": "Herbivore, feuilles, fruits, champignons",
+      "description": "L'Okapi, avec ses rayures distinctives et sa langue longue, est un animal unique et timide, souvent appelé la 'licorne africaine'.",
+      "trivia": [
+        "La longue langue de l'okapi peut atteindre 45 cm, lui permettant de se nettoyer les oreilles.",
+        "Ses rayures aident à le camoufler dans la forêt dense.",
+        "L'okapi est un animal solitaire, à l'exception de la mère et de son petit."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Okapi in the lush rainforests of the Congo, with dense vegetation and dappled sunlight, during a tranquil afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Fennec",
+      "taxonomy": "Mammifère, famille des canidés",
+      "habitat": "Déserts du Sahara et d'autres régions d'Afrique du Nord",
+      "diet": "Omnivore, insectes, petits mammifères, plantes",
+      "description": "Le Fennec est connu pour ses grandes oreilles et sa petite taille. C'est un animal adapté à la vie dans les environnements désertiques extrêmes.",
+      "trivia": [
+        "Ses grandes oreilles aident à dissiper la chaleur et à localiser les proies sous le sable.",
+        "Le fennec creuse des terriers profonds pour échapper à la chaleur du jour.",
+        "Malgré sa petite taille, il peut sauter très haut et courir rapidement."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Fennec Fox in the sandy dunes of the Sahara desert, with a starry night sky in the background, during a cool evening, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Lycaon",
+      "taxonomy": "Mammifère, famille des canidés",
+      "habitat": "Savanes, forêts, déserts",
+      "diet": "Carnivore, antilopes, rongeurs",
+      "description": "Le Lycaon, également connu sous le nom de chien sauvage africain, est célèbre pour ses motifs de pelage colorés et uniques et sa chasse en meute.",
+      "trivia": [
+        "Chassent en meutes coordonnées, utilisant l'endurance pour traquer les proies.",
+        "Possèdent seulement quatre orteils par patte, contrairement à d'autres canidés.",
+        "Les lycaons communiquent avec des appels complexes et des mouvements."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an African Wild Dog moving through the grassy plains of Africa, with its pack visible in the background, during a lively sunrise, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Grenouille Goliath",
+      "taxonomy": "Amphibien, famille des Conrauidés",
+      "habitat": "Rivières et cascades en Afrique centrale",
+      "diet": "Carnivore, poissons, crustacés",
+      "description": "La Grenouille Goliath est la plus grande grenouille du monde, connue pour sa taille remarquable et sa capacité à sauter de grandes distances.",
+      "trivia": [
+        "Peut atteindre jusqu'à 30 cm de longueur et peser jusqu'à 3 kg.",
+        "Nage habilement et peut effectuer de puissants sauts.",
+        "Les têtards de la grenouille Goliath sont relativement petits par rapport à la taille adulte."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Goliath Frog beside a fast-flowing river in the rainforests of Cameroon, with lush vegetation around, during a humid afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Autruche",
+      "taxonomy": "Oiseau, famille des Struthionidés",
+      "habitat": "Savanes, prairies ouvertes",
+      "diet": "Omnivore, plantes, insectes, petits vertébrés",
+      "description": "L'Autruche est le plus grand oiseau du monde, connue pour sa taille impressionnante, sa vitesse de course et ses grands yeux.",
+      "trivia": [
+        "Ne peut pas voler, mais peut courir à des vitesses élevées.",
+        "Possède les plus grands yeux de tous les oiseaux terrestres.",
+        "Les autruches peuvent utiliser leurs longues jambes pour se défendre."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Ostrich in the vast open plains of Africa, with a backdrop of acacia trees, during a vibrant sunset, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Messager Sagittaire",
+      "taxonomy": "Oiseau, famille des Sagittariidés",
+      "habitat": "Savanes, prairies ouvertes",
+      "diet": "Carnivore, serpents, rongeurs, insectes",
+      "description": "Le Messager Sagittaire, ou Secrétaire, est un grand oiseau terrestre, remarquable pour ses longues jambes et sa capacité à chasser les serpents.",
+      "trivia": [
+        "Peut courir à des vitesses élevées pour attraper ses proies.",
+        "Possède des plumes uniques à l'arrière de la tête, ressemblant à des plumes de secrétaire.",
+        "Utilise ses puissantes pattes pour frapper et tuer ses proies."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Secretary Bird in the grasslands of Africa, striking a pose as it hunts, with a wide-open savanna in the background, during a sunny afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Gnou",
+      "taxonomy": "Mammifère, famille des bovidés",
+      "habitat": "Savanes, prairies",
+      "diet": "Herbivore, herbes, feuilles",
+      "description": "Le Gnou, également connu sous le nom de Wildebeest, est connu pour ses grandes migrations annuelles à travers les plaines africaines.",
+      "trivia": [
+        "Voyage en vastes troupeaux lors de la migration.",
+        "Les gnous sont excellents nageurs et traversent souvent des rivières pendant leur migration.",
+        "Communiquent avec des grognements et des bousculades."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Wildebeest herd moving across the Serengeti during migration, with dust rising and a dramatic sunset in the background, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Manchot du Cap",
+      "taxonomy": "Oiseau, famille des Spheniscidés",
+      "habitat": "Côtes rocheuses, îles",
+      "diet": "Carnivore, poissons, crustacés",
+      "description": "Le Manchot du Cap, ou Manchot Africain, est le seul manchot se reproduisant en Afrique, célèbre pour sa démarche maladroite sur terre et son agilité dans l'eau.",
+      "trivia": [
+        "Nage habilement et peut plonger profondément pour chasser.",
+        "Forme des couples fidèles qui se reproduisent sur les plages et dans les buissons.",
+        "Les manchots du Cap sont très sociaux et bruyants, avec des cris distinctifs pour communiquer."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of African Penguins on a rocky shore in South Africa, with some swimming in the ocean and others resting on the land, during a clear sunny day, by Ted Nasmith --ar 3:2 --s 75"
     }
   ],
   "Amérique du Nord": [
