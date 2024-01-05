@@ -275,6 +275,110 @@
       ],
       "prompt": "/imagine prompt: Intimate close-up illustration of a Tigre du Bengale in the dense Sundarbans mangroves at the golden light of dusk, by Ted Nasmith --ar 3:2 --s 75"
     }
+    {
+      "name": "Tigre du Bengale",
+      "taxonomy": "Mammifère, famille des félidés",
+      "habitat": "Forêts tropicales, mangroves, prairies",
+      "diet": "Carnivore, préfère les cerfs, sangliers",
+      "description": "Le Tigre du Bengale est célèbre pour ses rayures distinctives et sa puissance. Il est un symbole de la faune asiatique et joue un rôle crucial dans son écosystème.",
+      "trivia": [
+        "Chaque tigre a un motif de rayures unique.",
+        "Excellent nageur, souvent trouvé près de l'eau.",
+        "Les tigres peuvent grimper aux arbres, bien que ce soit plus fréquent chez les jeunes."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Bengal Tiger in the dense jungles of Asia, lying beside a calm river, during the golden hour of sunset, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Panda Géant",
+      "taxonomy": "Mammifère, famille des ursidés",
+      "habitat": "Montagnes boisées, forêts de bambous",
+      "diet": "Herbivore, se nourrit principalement de bambou",
+      "description": "Le Panda Géant est reconnu pour son pelage noir et blanc et son comportement paisible. Il est devenu un symbole mondial de la conservation de la nature.",
+      "trivia": [
+        "Peut manger jusqu'à 38 kg de bambou par jour.",
+        "A un sixième doigt qui l'aide à saisir les tiges de bambou.",
+        "Les pandas peuvent passer jusqu'à 16 heures par jour à manger."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Giant Panda peacefully eating bamboo in a lush bamboo forest in China, with a serene expression, during a misty morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Éléphant d'Asie",
+      "taxonomy": "Mammifère, famille des éléphantidés",
+      "habitat": "Forêts, savanes, marécages",
+      "diet": "Herbivore, se nourrit de feuilles, herbes, fruits",
+      "description": "L'Éléphant d'Asie, avec ses grandes oreilles et ses longues défenses, joue un rôle vital dans son environnement, aidant à maintenir les écosystèmes forestiers.",
+      "trivia": [
+        "Possède une excellente mémoire et des liens sociaux forts.",
+        "Utilise sa trompe polyvalente pour se nourrir, boire, et communiquer.",
+        "Les éléphants aiment se baigner et jouer dans l'eau."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Asian Elephant wandering through the dense forests of Asia, with a backdrop of lush greenery and a tranquil stream, during a sunny afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Léopard des neiges",
+      "taxonomy": "Mammifère, famille des félidés",
+      "habitat": "Montagnes enneigées, terrains escarpés",
+      "diet": "Carnivore, préfère les ibex, les moutons bleus",
+      "description": "Le Léopard des neiges est un félin insaisissable, connu pour son pelage épais et tacheté, parfaitement adapté à la vie dans les montagnes froides et rudes.",
+      "trivia": [
+        "Capable de faire des sauts impressionnants pour capturer des proies.",
+        "Très solitaire, rarement vu par les humains.",
+        "Leur pelage change de couleur selon les saisons pour un meilleur camouflage."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Snow Leopard gracefully navigating the rocky and snowy terrains of the Himalayas, in the quiet of a snowy twilight, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Dragon de Komodo",
+      "taxonomy": "Reptile, famille des varanidés",
+      "habitat": "Îles de l'Indonésie, forêts, savanes",
+      "diet": "Carnivore, chasse de grands animaux",
+      "description": "Le Dragon de Komodo est le plus grand lézard au monde, connu pour sa taille impressionnante et sa morsure puissante.",
+      "trivia": [
+        "Utilise sa langue fourchue pour détecter les odeurs.",
+        "Peut courir brièvement à des vitesses surprenantes.",
+        "Les jeunes vivent dans les arbres pour éviter les prédateurs, y compris les adultes."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Komodo Dragon in the dry grasslands of Indonesian islands, with a backdrop of volcanic terrain, during a hot afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Chameau de Bactriane",
+      "taxonomy": "Mammifère, famille des camélidés",
+      "habitat": "Déserts, steppes d'Asie centrale",
+      "diet": "Herbivore, se nourrit de plantes sèches, herbes",
+      "description": "Le Chameau de Bactriane, avec ses deux bosses, est un animal résistant, capable de survivre dans des conditions extrêmes des déserts.",
+      "trivia": [
+        "Peut boire jusqu'à 100 litres d'eau en une seule fois.",
+        "Leur fourrure épaisse les protège du froid extrême en hiver.",
+        "Les bosses stockent de la graisse, leur permettant de survivre sans nourriture pendant des périodes prolongées."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Bactrian Camel in the vast Gobi Desert, with sand dunes and a clear blue sky, during a serene sunrise, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Macaque Japonais",
+      "taxonomy": "Mammifère, famille des primates",
+      "habitat": "Forêts, régions montagneuses du Japon",
+      "diet": "Omnivore, fruits, feuilles, petits invertébrés",
+      "description": "Le Macaque Japonais, ou singe des neiges, est célèbre pour se baigner dans les sources chaudes. Il possède un pelage épais et une expression faciale expressive.",
+      "trivia": [
+        "Se réunissent autour des sources chaudes pour se réchauffer en hiver.",
+        "Ont une structure sociale complexe et communiquent avec de nombreux vocalises.",
+        "Adaptables, ils peuvent vivre dans des climats variés, des forêts tropicales aux zones enneigées."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Japanese Macaque relaxing in a hot spring surrounded by snowy mountains, with steam rising gently, during a cold winter day, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Panda Roux",
+      "taxonomy": "Mammifère, famille des ailuridés",
+      "habitat": "Forêts de montagne, zones de bambous",
+      "diet": "Omnivore, bambous, fruits, insectes",
+      "description": "Le Panda Roux est un animal charmant avec un pelage roux et une longue queue touffue. Il est agile dans les arbres et passe la majorité de son temps dans les branches.",
+      "trivia": [
+        "Utilise sa queue touffue comme couverture pendant le sommeil.",
+        "Excellents grimpeurs, ils se déplacent avec agilité dans les arbres.",
+        "Leur régime alimentaire est principalement composé de bambou, mais ils mangent aussi d'autres aliments."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Red Panda perched on a tree branch in the Himalayan forests, with autumn leaves around, during a peaceful afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
   ],
   "Afrique": [
     {
