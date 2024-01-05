@@ -14,6 +14,19 @@
       "prompt": "/imagine prompt: Intimate close-up illustration of a Renard Rouge in the lush green forests of Europe during the early hours of dawn, by Ted Nasmith --ar 3:2 --s 75"
     },
     {
+      "name": "Ours Brun",
+      "taxonomy": "Mammifère, famille des ursidés",
+      "habitat": "Forêts denses, montagnes, toundras",
+      "diet": "Omnivore, préfère les baies, le poisson, le miel",
+      "description": "L'Ours Brun est l'un des plus grands prédateurs terrestres d'Europe. Il est respecté pour sa force, son intelligence et sa capacité à s'adapter à différents environnements.",
+      "trivia": [
+        "Peut atteindre des vitesses surprenantes malgré sa taille.",
+        "L'ours brun utilise sa queue touffue comme couverture pour se garder au chaud.",
+        "Ils hibernent en hiver, un sommeil profond pour économiser l'énergie."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Brown Bear in the thick forests and mountain regions of Europe, during the quiet hours of dawn, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
       "name": "Hérisson d'Europe",
       "taxonomy": "Mammifère, famille des Erinaceidae",
       "habitat": "Forêts, haies, jardins",
@@ -129,7 +142,124 @@
         "Leur chant peut être entendu surtout pendant la saison de reproduction."
       ],
       "prompt": "/imagine prompt: Intimate close-up illustration of a Common Frog on a lily pad in a serene European pond, with dragonflies fluttering by in the soft light of the afternoon, by Ted Nasmith --ar 3:2 --s 75"
-    }
+    },
+    {
+      "name": "Carpe",
+      "taxonomy": "Poisson, famille des Cyprinidés",
+      "habitat": "Lacs, rivières, étangs",
+      "diet": "Omnivore, se nourrit d'algues, plantes aquatiques, insectes",
+      "description": "La carpe est un poisson d'eau douce populaire, apprécié pour sa taille imposante et sa capacité à vivre dans divers environnements aquatiques.",
+      "trivia": [
+        "Certaines carpes peuvent vivre plusieurs décennies.",
+        "Reconnues pour leur intelligence, elles peuvent apprendre à éviter les pièges.",
+        "Les carpes sont souvent élevées dans des étangs pour la pêche sportive."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Carp swimming gracefully in a clear European lake, with water plants and sunlight creating patterns in the water, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Chouette Effraie",
+      "taxonomy": "Oiseau, famille des Tytonidés",
+      "habitat": "Vieilles granges, forêts, zones rurales",
+      "diet": "Carnivore, rongeurs, petits oiseaux",
+      "description": "La Chouette Effraie, avec son visage en forme de cœur et son vol silencieux, est un oiseau nocturne mystérieux et un chasseur efficace.",
+      "trivia": [
+        "Peut tourner sa tête jusqu'à 270 degrés.",
+        "Son vol est presque silencieux grâce à la structure unique de ses plumes.",
+        "Utilise des ultrasons pour localiser ses proies dans l'obscurité."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Barn Owl perched on an ancient tree in a moonlit European field, with an old barn in the background, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Bison d'Europe",
+      "taxonomy": "Mammifère, famille des Bovidae",
+      "habitat": "Forêts, prairies",
+      "diet": "Herbivore, herbes, feuilles, branches",
+      "description": "Le Bison d'Europe, majestueux et massif, est l'un des plus grands mammifères terrestres d'Europe, symbole de force et de résilience naturelle.",
+      "trivia": [
+        "A failli disparaître, mais a été sauvé grâce à des programmes de conservation.",
+        "Vit en petits troupeaux menés par une femelle dominante.",
+        "Peut peser jusqu'à une tonne et possède une force impressionnante."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a European Bison roaming in a lush European forest, with early morning mist swirling around, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Vache des Highlands Écossaises",
+      "taxonomy": "Mammifère, famille des Bovidae",
+      "habitat": "Hautes terres, pâturages",
+      "diet": "Herbivore, herbes, plantes",
+      "description": "Reconnaissable à son pelage long et frisé et à ses longues cornes, la Vache des Highlands Écossaises est une race rustique, adaptée aux climats rudes.",
+      "trivia": [
+        "Leur épais pelage les protège contre le froid et l'humidité.",
+        "Connues pour leur nature calme et leur bonne disposition.",
+        "Peuvent parcourir de longues distances à la recherche de nourriture."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of Scottish Highland Cattle grazing in the rugged highlands of Scotland, with rolling hills and a cloudy sky in the background, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Loup Gris",
+      "taxonomy": "Mammifère, famille des canidés",
+      "habitat": "Forêts, montagnes, toundras",
+      "diet": "Carnivore, préfère les grands mammifères",
+      "description": "Le loup gris est un animal emblématique et mystérieux, connu pour son intelligence, sa force et son esprit de meute.",
+      "trivia": [
+        "Vit et chasse en meute, dirigée par un couple alpha.",
+        "Communique à travers des hurlements complexes.",
+        "Joue un rôle clé dans l'équilibre écologique de son habitat."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Grey Wolf in the dense forests of Europe, with a snowy background, during the quiet twilight, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Chamois",
+      "taxonomy": "Mammifère, famille des bovidés",
+      "habitat": "Montagnes, terrains escarpés",
+      "diet": "Herbivore, herbes, feuilles, bourgeons",
+      "description": "Le chamois est réputé pour son agilité exceptionnelle dans les terrains montagneux et pour son pelage épais qui le protège du froid.",
+      "trivia": [
+        "Peut sauter jusqu'à 2 mètres de haut et 6 mètres de long.",
+        "Ses sabots fendus lui donnent une excellente adhérence sur les rochers.",
+        "Très vigilant, il a une vue et une ouïe exceptionnelles."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Chamois skillfully navigating the rocky alpine landscapes of Europe, under a clear blue sky, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Bouquetin des Pyrénées",
+      "taxonomy": "Mammifère, famille des bovidés",
+      "habitat": "Montagnes rocheuses, falaises",
+      "diet": "Herbivore, se nourrit de lichens, herbes, feuilles",
+      "description": "Avec ses longues cornes incurvées et son agilité en montagne, le Bouquetin des Pyrénées est une espèce emblématique, adaptée aux terrains difficiles.",
+      "trivia": [
+        "Les cornes peuvent mesurer jusqu'à 1 mètre de long.",
+        "Excellents grimpeurs, ils peuvent échapper aux prédateurs sur des terrains escarpés.",
+        "Jadis menacé d'extinction, il a fait l'objet de programmes de conservation réussis."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Pyrenean Ibex standing majestically on a high cliff in the Pyrenees Mountains, with a breathtaking view in the background, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Lapin Européen",
+      "taxonomy": "Mammifère, famille des léporidés",
+      "habitat": "Prairies, champs, bois",
+      "diet": "Herbivore, se nourrit principalement de plantes, herbes",
+      "description": "Le lapin européen est connu pour sa reproduction rapide, ses longues oreilles et sa capacité à creuser des terriers complexes pour se protéger.",
+      "trivia": [
+        "Vit en grandes colonies appelées 'clapiers'.",
+        "Peut creuser des réseaux de tunnels et de chambres souterraines.",
+        "Les lapins communiquent entre eux grâce à une variété de sons et de mouvements."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a European Rabbit in a lush meadow in Europe, nibbling on grass, with wildflowers around, in the warm light of the setting sun, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Saumon Atlantique",
+      "taxonomy": "Poisson, famille des Salmonidés",
+      "habitat": "Rivières, océan Atlantique",
+      "diet": "Carnivore, se nourrit de petits poissons, crustacés",
+      "description": "Le Saumon Atlantique est célèbre pour son incroyable migration, remontant les rivières de son lieu de naissance pour se reproduire.",
+      "trivia": [
+        "Effectue des sauts spectaculaires pour franchir les obstacles lors de sa remontée des rivières.",
+        "Change de couleur et de forme lors de sa migration vers l'eau douce.",
+        "Joue un rôle crucial dans les écosystèmes aquatiques, apportant des nutriments des océans aux rivières."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Atlantic Salmon leaping through the sparkling waters of a European river, with a backdrop of lush greenery and cascading waterfalls, during a bright sunny day, by Ted Nasmith --ar 3:2 --s 75"
+    } 
   ],
   "Asie": [
     {
