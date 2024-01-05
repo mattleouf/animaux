@@ -40,6 +40,45 @@
       "prompt": "/imagine prompt: Intimate close-up illustration of an Iberian Lynx perched silently on a rocky outcrop in the dense Mediterranean forest, at dusk, by Ted Nasmith --ar 3:2 --s 75"
     },
     {
+      "name": "Élan",
+      "taxonomy": "Mammifère, famille des cervidés",
+      "habitat": "Forêts boréales, zones humides",
+      "diet": "Herbivore, se nourrit de feuilles, branches, et herbes",
+      "description": "L'Élan est connu pour sa taille impressionnante, le plus grand des cervidés, et se distingue par ses imposantes bois et sa stature majestueuse.",
+      "trivia": [
+        "Peut facilement traverser de grandes étendues d'eau à la nage.",
+        "Les bois de l'élan tombent et repoussent chaque année.",
+        "Ils sont particulièrement adaptés aux climats froids grâce à leur fourrure dense."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Moose in the boreal forests of Europe, standing tall amongst the dense trees in the early morning fog, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Blaireau Européen",
+      "taxonomy": "Mammifère, famille des Mustelidae",
+      "habitat": "Forêts, champs, zones rurales",
+      "diet": "Omnivore, insectes, vers, baies, racines",
+      "description": "Le Blaireau Européen est reconnu par sa bande noire et blanche caractéristique sur la tête. C'est un animal nocturne, vivant dans des systèmes de galeries souterraines.",
+      "trivia": [
+        "Vit dans des 'setts', des réseaux de tunnels et de chambres.",
+        "A un sens de l'odorat très développé, utilisé pour la recherche de nourriture.",
+        "Les blaireaux peuvent être très territoriaux et vivent en groupes familiaux."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a European Badger emerging from its burrow in the twilight, surrounded by woodland undergrowth, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Loutre Eurasiatique",
+      "taxonomy": "Mammifère, famille des lutrinés",
+      "habitat": "Rivières, lacs, zones côtières",
+      "diet": "Carnivore, poissons, crustacés, petits mammifères",
+      "description": "Agile et joueuse, la Loutre Eurasiatique est célèbre pour sa capacité à nager et plonger, avec un pelage brun brillant et une queue longue et musclée.",
+      "trivia": [
+        "Utilise des outils, comme des pierres, pour ouvrir les coquillages.",
+        "Peut fermer ses narines sous l'eau pour éviter l'entrée d'eau.",
+        "Les loutres sont très sociales et jouent un rôle important dans l'écosystème aquatique."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Eurasian Otter playing along a gently flowing river, with reeds and water plants around, in the soft light of afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },    
+    {
       "name": "Chevreuil",
       "taxonomy": "Mammifère, famille des cervidés",
       "habitat": "Forêts, clairières et champs",
