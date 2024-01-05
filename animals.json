@@ -366,6 +366,162 @@
       ],
       "prompt": "/imagine prompt: Intimate close-up illustration of a Red Panda perched on a tree branch in the Himalayan forests, with autumn leaves around, during a peaceful afternoon, by Ted Nasmith --ar 3:2 --s 75"
     },
+    {
+      "name": "Paon",
+      "taxonomy": "Oiseau, famille des Phasianidés",
+      "habitat": "Forêts, zones agricoles",
+      "diet": "Omnivore, se nourrit d'insectes, graines, plantes",
+      "description": "Le Paon est célèbre pour ses plumes magnifiques et colorées. Il est souvent associé à la beauté et à l'élégance dans de nombreuses cultures asiatiques.",
+      "trivia": [
+        "Les mâles déploient leurs queues colorées pour attirer les femelles.",
+        "Peuvent émettre un cri distinctif, surtout pendant la saison de reproduction.",
+        "Le paon peut voler sur de courtes distances malgré sa taille."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Peacock displaying its vibrant and colorful tail feathers in a lush Asian garden, with peonies and cherry blossoms, during a bright spring day, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Grue de Sibérie",
+      "taxonomy": "Oiseau, famille des Gruidés",
+      "habitat": "Zones humides, lacs peu profonds",
+      "diet": "Omnivore, se nourrit de plantes aquatiques, insectes",
+      "description": "La Grue de Sibérie est connue pour sa taille imposante et son plumage blanc élégant. Elle effectue l'une des plus longues migrations d'oiseaux.",
+      "trivia": [
+        "Possède une danse nuptiale complexe et gracieuse.",
+        "Peut voler à des altitudes élevées pendant sa migration.",
+        "Les couples de grues restent souvent unis tout au long de leur vie."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Siberian Crane in flight over the tranquil waters of a Siberian lake, with a backdrop of snowy mountains, during a crisp autumn morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Salamandre Géante de Chine",
+      "taxonomy": "Amphibien, famille des Cryptobranchidés",
+      "habitat": "Rivières montagneuses, lacs",
+      "diet": "Carnivore, poissons, insectes, petits crustacés",
+      "description": "La Salamandre Géante de Chine est l'un des plus grands amphibiens du monde, connue pour sa taille impressionnante et sa peau glissante.",
+      "trivia": [
+        "Peut rester sous l'eau pendant de longues périodes grâce à sa respiration cutanée.",
+        "Nocturne, elle chasse principalement la nuit.",
+        "Les salamandres géantes ont une longévité remarquable, pouvant vivre plusieurs décennies."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Chinese Giant Salamander in a clear mountain stream in China, surrounded by lush vegetation and moss-covered rocks, during a misty evening, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Carpe Koi",
+      "taxonomy": "Poisson, famille des Cyprinidés",
+      "habitat": "Étangs, lacs de jardins",
+      "diet": "Omnivore, se nourrit d'algues, plantes, petits insectes",
+      "description": "Les Carpes Koi sont appréciés pour leur beauté et leurs motifs colorés. Elles sont un symbole de chance et de prospérité dans de nombreuses cultures asiatiques.",
+      "trivia": [
+        "Peuvent développer des liens forts avec leurs soigneurs.",
+        "Reconnues pour leur longévité, certaines vivant plus de 50 ans.",
+        "Les motifs et les couleurs des Koi varient considérablement, rendant chaque poisson unique."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of Koi Fish swimming gracefully in a serene Japanese garden pond, with lily pads and blooming lotuses, in the gentle light of a spring afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Orang-outan",
+      "taxonomy": "Mammifère, famille des hominidés",
+      "habitat": "Forêts tropicales d'Asie du Sud-Est",
+      "diet": "Omnivore, fruits, feuilles, insectes",
+      "description": "L'Orang-outan, avec son pelage roux et ses longs bras, est reconnu pour son intelligence et sa capacité à utiliser des outils.",
+      "trivia": [
+        "Vit principalement dans les arbres et se déplace en se balançant de branche en branche.",
+        "A une période de gestation longue et s'occupe intensément de ses petits.",
+        "Peut fabriquer des 'parapluies' de feuilles pour se protéger de la pluie."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Orangutan in the lush rainforests of Borneo, hanging from a tree branch, surrounded by vibrant green foliage, during a calm afternoon, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Cobra Royal",
+      "taxonomy": "Reptile, famille des Elapidae",
+      "habitat": "Forêts, champs, zones proches de l'eau",
+      "diet": "Carnivore, serpents, petits mammifères",
+      "description": "Le Cobra Royal est l'un des serpents les plus venimeux au monde, connu pour son capuchon distinctif et son sifflement intimidant.",
+      "trivia": [
+        "Peut se dresser et élargir son capuchon lorsqu'il se sent menacé.",
+        "Les cobras royaux peuvent nager et sont souvent trouvés près de l'eau.",
+        "Leurs œufs sont les plus gros de tous les serpents venimeux."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a King Cobra in the dense undergrowth of an Asian jungle, poised and alert, during a misty morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Gavial",
+      "taxonomy": "Reptile, famille des Gavialidae",
+      "habitat": "Rivières, lacs en Asie du Sud",
+      "diet": "Carnivore, poissons, petits animaux",
+      "description": "Le Gavial est un crocodilien distinct avec un long museau étroit, spécialisé pour attraper des poissons dans les rivières.",
+      "trivia": [
+        "Possède plus de 100 dents fines adaptées pour attraper des poissons.",
+        "Peut rester immergé pendant de longues périodes.",
+        "Les mâles développent une bosse distinctive sur le bout du museau en atteignant la maturité."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Gharial in the clear waters of an Indian river, with lush greenery on the banks, during a warm sunny day, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Yak",
+      "taxonomy": "Mammifère, famille des bovidés",
+      "habitat": "Hautes montagnes d'Asie, plateaux",
+      "diet": "Herbivore, herbes, mousses",
+      "description": "Le Yak est un animal robuste et poilu, adapté à la vie dans les environnements froids et montagneux avec son épaisse toison.",
+      "trivia": [
+        "Peut porter de lourdes charges sur de longues distances.",
+        "Le lait de yak est riche en matières grasses et utilisé dans de nombreux produits laitiers locaux.",
+        "Produit un son caractéristique, souvent décrit comme un grognement."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Yak in the snowy Himalayan mountains, with a backdrop of rugged terrain and clear blue skies, during a crisp winter morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Buffle d'Eau Asiatique",
+      "taxonomy": "Mammifère, famille des bovidés",
+      "habitat": "Marécages, rivières, rizières",
+      "diet": "Herbivore, herbes, plantes aquatiques",
+      "description": "Le Buffle d'Eau Asiatique est un animal puissant, jouant un rôle crucial dans l'agriculture asiatique grâce à sa force et sa résistance.",
+      "trivia": [
+        "Excellents nageurs, souvent trouvés se baignant dans l'eau.",
+        "Joue un rôle important dans la culture et l'économie rurale asiatique.",
+        "Peut être domestiqué et utilisé pour le labour des champs."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Asian Water Buffalo in the wetlands of Southeast Asia, partially submerged in water, surrounded by lush vegetation, during a tranquil sunset, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Lion Asiatique",
+      "taxonomy": "Mammifère, famille des félidés",
+      "habitat": "Forêts sèches, prairies",
+      "diet": "Carnivore, grands herbivores",
+      "description": "Le Lion Asiatique, moins connu que son cousin africain, est unique avec une crinière moins fournie et un comportement social distinct.",
+      "trivia": [
+        "Plus petits que les lions africains, avec des crinières moins développées.",
+        "Vivent en petits groupes, souvent centrés autour d'une femelle dominante.",
+        "Excellents chasseurs, utilisent la force du groupe pour traquer leurs proies."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Asiatic Lion in the Gir Forest of India, resting under the shade of a large tree, with a dry savannah landscape around, during a hot midday, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Rhinocéros Indien",
+      "taxonomy": "Mammifère, famille des rhinocérotidés",
+      "habitat": "Forêts humides, marécages",
+      "diet": "Herbivore, herbes, feuilles, branches",
+      "description": "Le Rhinocéros Indien est reconnaissable à sa peau plissée unique et sa seule grande corne. Il est un animal majestueux et puissant.",
+      "trivia": [
+        "La peau du rhinocéros indien ressemble à une armure naturelle.",
+        "Peut courir à des vitesses étonnantes malgré sa taille imposante.",
+        "Utilise sa corne pour se défendre et pour fouiller dans la terre à la recherche de nourriture."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of an Indian Rhinoceros in the lush grasslands of Kaziranga National Park, with tall grasses and a misty background, during an early morning, by Ted Nasmith --ar 3:2 --s 75"
+    },
+    {
+      "name": "Canard Mandarin",
+      "taxonomy": "Oiseau, famille des Anatidés",
+      "habitat": "Lacs, rivières, marécages",
+      "diet": "Omnivore, graines, plantes, petits invertébrés",
+      "description": "Le Canard Mandarin est un oiseau aquatique aux couleurs vives et remarquables. Il est souvent considéré comme l'un des plus beaux canards au monde.",
+      "trivia": [
+        "Les mâles présentent un plumage coloré, surtout pendant la saison de reproduction.",
+        "Peuvent nicher dans des cavités d'arbres, loin de l'eau.",
+        "Forme des couples monogames pendant la saison de reproduction."
+      ],
+      "prompt": "/imagine prompt: Intimate close-up illustration of a Mandarin Duck swimming in a tranquil Asian pond, with reflections of cherry blossoms on the water surface, during a serene spring evening, by Ted Nasmith --ar 3:2 --s 75"
+    }
   ],
   "Afrique": [
     {
