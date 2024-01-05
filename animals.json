@@ -264,19 +264,6 @@
   "Asie": [
     {
       "name": "Tigre du Bengale",
-      "taxonomy": "Mammifère, famille des félins",
-      "habitat": "Forêts tropicales, mangroves",
-      "diet": "Carnivore, préfère les cerfs et les sangliers",
-      "description": "Le tigre du Bengale, avec ses rayures emblématiques, est le roi incontesté des jungles asiatiques, symbolisant la force et la majesté.",
-      "trivia": [
-        "Les rayures sont uniques à chaque individu.",
-        "Excellents nageurs, ils peuvent traverser des rivières larges.",
-        "Capables de bondir jusqu'à 10 mètres de distance."
-      ],
-      "prompt": "/imagine prompt: Intimate close-up illustration of a Tigre du Bengale in the dense Sundarbans mangroves at the golden light of dusk, by Ted Nasmith --ar 3:2 --s 75"
-    }
-    {
-      "name": "Tigre du Bengale",
       "taxonomy": "Mammifère, famille des félidés",
       "habitat": "Forêts tropicales, mangroves, prairies",
       "diet": "Carnivore, préfère les cerfs, sangliers",
